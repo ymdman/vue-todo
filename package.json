@@ -1,0 +1,23 @@
+{
+  "name": "Vue-Todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ymdman/vue-todo.git",
+  "author": "ymdman",
+  "license": "MIT",
+  "devDependencies": {
+    "clean-entry-webpack-plugin": "^0.0.1",
+    "glob": "^7.1.2",
+    "path": "^0.12.7",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-extend": "^1.0.5",
+    "postcss-import": "^11.1.0",
+    "postcss-mixins": "^6.2.0",
+    "postcss-sorting": "^4.0.0",
+    "vue": "^2.5.16",
+    "vue-loader": "^15.2.6",
+    "vue-style-loader": "^4.1.1",
+    "webpack": "^4.16.3",
+    "webpack-cli": "^3.1.0"
+  }
+}
