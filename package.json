@@ -5,6 +5,11 @@
   "repository": "https://github.com/ymdman/vue-todo.git",
   "author": "ymdman",
   "license": "MIT",
+  "scripts": {
+    "watch": "NODE_ENV=development webpack --watch",
+    "development": "NODE_ENV=development webpack",
+    "production": "NODE_ENV=production webpack"
+  },
   "devDependencies": {
     "clean-entry-webpack-plugin": "^0.0.1",
     "glob": "^7.1.2",
