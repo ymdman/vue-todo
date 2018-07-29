@@ -3,4 +3,4 @@ node_modules/
 .vscode/
 public/bundle.js
 public/bundle.css
-npm-debug.log
+yarn-error.log
